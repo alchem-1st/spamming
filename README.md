@@ -7,7 +7,7 @@ Pyautogui is a library that allows you to control the mouse and keyboard to do v
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install .
 
 ```bash
 pip install pyautogui
